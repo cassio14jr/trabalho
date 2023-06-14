@@ -1,16 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <style>body{background-color:bisque}
+    </style> 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="# style.css">
     <h1>materias de construção</h1>
-    <img src="trabalhadores.jpeg">
-<p>  Tudo o que voçe precisa temos aqui, nossos materias são de alta qualidade e eficiência para te ajudar nos mais difíceis trabalhos!</p>
+<p style="color: purple"> Tudo o que voçe precisa temos aqui, nossos materias são de alta qualidade e eficiência para te ajudar nos mais difíceis trabalhos!</p>
 <button>https://www.vonder.com.br/</button>
 <p>  Aqui temos uma variedade de ferramentas para te ajuda.</p>
-<p>Nossa empresa esta nesse ramo a 50 anos, sempre vendendo os melhores produtos, tudo isso por um preço justo. </p>
-<p>contatos:3333;3333</p>
-<p>endereço:rua mereço nota dez</p>
+<p>Nossa empresa esta nesse ramo a 50 anos, sempre vendendo os melhores produtos, tudo isso por um preço justo.</p>
+<img src="ferramentas">
+
+
+<p>contatos:3333-4444</p>
+<p>endereço:rua mereço nota dez.</p>
